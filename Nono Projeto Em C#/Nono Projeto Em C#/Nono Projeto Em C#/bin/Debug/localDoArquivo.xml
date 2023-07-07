@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<dadosDoUsuario xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/oitavo_projeto_C_">
+  <cadastrarUsuario>
+    <cadastroDoUsuario>
+      <dataDeNascimento>2005-07-22T00:00:00</dataDeNascimento>
+      <idadeDoUsuario>15</idadeDoUsuario>
+      <nomeDaMae>joana</nomeDaMae>
+      <nomeDoUsuario>lucas</nomeDoUsuario>
+      <numeroDoTelefone>987654321</numeroDoTelefone>
+    </cadastroDoUsuario>
+  </cadastrarUsuario>
+</dadosDoUsuario>
